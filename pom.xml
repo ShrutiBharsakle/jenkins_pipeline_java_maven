@@ -8,7 +8,7 @@
 	<name>jenkins_pipeline_java_maven</name>
 	<description>For TTFHW of Jenkinsfile within a java project</description>
 
-	<!-- 🧠 Add this block here -->
+	<!--  Add this block here -->
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<maven.compiler.source>17</maven.compiler.source>
